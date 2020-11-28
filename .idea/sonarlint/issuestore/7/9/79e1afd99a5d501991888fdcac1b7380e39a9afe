@@ -1,0 +1,33 @@
+
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(°…øõøÿÿÿÿ8»¥Ğ÷à.
+S
+java:S1128	"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8Ç ÷à.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÁïÚıÿÿÿÿ8åøŒòà.
+F
+java:S1481")Remove this unused "list" local variable.(»ü¯ö8®ê†øà.
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(´ÓñÊ8Ä¹èïà.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Á…Â÷à.
+V
+java:S1128"4Remove this unused import 'liquibase.util.FileUtil'.(ßµîÚşÿÿÿÿ8ÆÊ†öà.
+O
+java:S1481"-Remove this unused "innerMap" local variable.(İÈ‡úÿÿÿÿ8®ê†øà.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ïÏ8ªÎË÷à.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¸àò§øÿÿÿÿ8“¢šîà.
+`
+java:S1128">Remove this unused import 'liquibase.util.file.FilenameUtils'.(©²œëşÿÿÿÿ8§†øõà.
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(íìî¬şÿÿÿÿ8ç©®òà.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸àò§øÿÿÿÿ8“¢šîà.
+^
+java:S1854"<Remove this useless assignment to local variable "innerMap".(İÈ‡úÿÿÿÿ8®ê†øà.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(íìî¬şÿÿÿÿ8Ãˆè÷à.
+{
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(éÇà¡ıÿÿÿÿ8èšÚöà.
+]	java:S125."<This block of commented-out lines of code should be removed.(ôºÇ–øÿÿÿÿ8ª×É÷à.
+j
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÕÇƒ—øÿÿÿÿ8Ä¹èïà.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(šŠ×âşÿÿÿÿ8Âøà.

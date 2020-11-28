@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cmData type="actual">
+    <Cbis id="abc">
+        <p name="fdn">Goo1</p>
+        <p name="host-name">10.94.225.1</p>
+    </Cbis>
+    <Cbis id="def">
+        <p name="fdn">Goo2</p>
+        <p name="host-name">10.94.225.2</p>
+    </Cbis>
+    <Cbis id="hij">
+        <p name="fdn">Goo3</p>
+        <p name="host-name">10.94.225.3</p>
+    </Cbis>
+    <Cbis id="klm">
+        <p name="fdn">Goo4</p>
+        <p name="host-name">10.94.225.4</p>
+    </Cbis>
+    <Cbis id="nop">
+        <p name="fdn">Goo5</p>
+        <p name="host-name">10.94.225.5</p>
+    </Cbis>
+</cmData>

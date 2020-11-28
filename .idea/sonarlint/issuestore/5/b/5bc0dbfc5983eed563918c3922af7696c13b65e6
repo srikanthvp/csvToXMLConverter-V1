@@ -1,0 +1,33 @@
+
+U
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8õ ƒÜß.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÃÔ»ÿÿÿÿÿ8õ ƒÜß.
+U
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ç«ŒÂúÿÿÿÿ8õ ƒÜß.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÃÔ»ÿÿÿÿÿ8õ ƒÜß.
+U
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8õ ƒÜß.
+d
+java:S2259"DA "NullPointerException" could be thrown; "writer" is nullable here.(ÄËªŸÿÿÿÿÿ8õ ƒÜß.
+V
+java:S1128"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8õ ƒÜß.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÃÔ»ÿÿÿÿÿ8õ ƒÜß.
+U	java:S125"<This block of commented-out lines of code should be removed.(Ü™è8õ ƒÜß.
+g
+java:S2095"GUse try-with-resources or close this "CSVReader" in a "finally" clause.(¼—£”şÿÿÿÿ8ˆ‡Üß.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÃÔ»ÿÿÿÿÿ8õ ƒÜß.
+r
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(³®¨ñÿÿÿÿÿ8õ ƒÜß.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÃÔ»ÿÿÿÿÿ8õ ƒÜß.
+V	java:S125"<This block of commented-out lines of code should be removed.(ú•â»8õ ƒÜß.
+V	java:S125"<This block of commented-out lines of code should be removed.(’ˆôˆ8õ ƒÜß.
+[	java:S125"<This block of commented-out lines of code should be removed.(‘ÊÈ¢øÿÿÿÿ8õ ƒÜß.
+N
+java:S1481".Remove this unused "csvReader" local variable.(ÔŒÊ¾ıÿÿÿÿ8õ ƒÜß.
+N
+java:S2755"3Disable access to external entities in XML parsing.(‰ïÄ¥8õ ƒÜß.
+U
+java:S1128"5Remove this unused import 'sun.plugin.dom.core.Attr'.(Ç«ŒÂúÿÿÿÿ8õ ƒÜß.
+C	java:S108")Either remove or fill this block of code.(”ı¾8õ ƒÜß.
+s
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(œ¯è8õ ƒÜß.
